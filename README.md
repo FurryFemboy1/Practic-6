@@ -3,11 +3,11 @@
 Практическая работа №6: Двумерные прямоугольные массивы (матрицы) в C# и генерация игровых локаций
 ---
 
-    <picture> <img src="screen/1.png"> 
-    </picture>
+<picture> <img src="screen/1.png"> 
+</picture>
 
-    <picture> <img src="screen/2.png"> 
-    </picture>
+<picture> <img src="screen/2.png"> 
+</picture>
 
     using System;
     using System.Collections.Generic;
